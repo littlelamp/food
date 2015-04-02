@@ -13,7 +13,7 @@ _30 day trial starts: 04/02/2015_
 - Ice cream once a week
 - Apple pie, only at grandma's house
 - Cereal once a week
-- Bread/Tortilla - 2 pieces of bread a day (no bigger than 8.5" x 11" size slices), or one tortilla
+- Bread/Tortilla/Bagels - 2 pieces of bread a day (no bigger than 8.5" x 11" size slices), or one tortilla
 - Pasta - once a week
 - Hummus - it's not forbidden, duh
 - Caesar salad dressing
