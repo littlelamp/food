@@ -1,5 +1,7 @@
 # Food
 
+_30 day trial starts: 04/02/2015_
+
 ## What (not) to eat
 
 - Dairy (milk, cheese, butter)
@@ -15,3 +17,4 @@
 - Pasta - once a week
 - Hummus - it's not forbidden, duh
 - Caesar salad dressing
+- 05/02
