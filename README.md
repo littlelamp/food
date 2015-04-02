@@ -17,4 +17,5 @@ _30 day trial starts: 04/02/2015_
 - Pasta - once a week
 - Hummus - it's not forbidden, duh
 - Caesar salad dressing
+- Juice one cup a day
 - 05/02
